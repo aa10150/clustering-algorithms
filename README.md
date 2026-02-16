@@ -1,4 +1,4 @@
-## State Space Search Algorithms Using Iterative Deepening and Hill Climbing
+## State Space Search Algorithms: Iterative Deepening and Hill Climbing
 
 The input.txt file should contain the following contents:
 
@@ -57,3 +57,4 @@ k 10 2 1 1
 
 
 l 11 1 1 1
+
